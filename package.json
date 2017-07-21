@@ -13,8 +13,10 @@
     "cors": "^2.8.4",
     "express": "^4.15.3",
     "fs-extra": "^3.0.1",
-    "mongoose": "^4.11.1",
-    "morgan": "^1.8.2"
+    "mongoose": "^4.10.8",
+    "morgan": "^1.8.2",
+    "socket.io": "^2.0.3",
+    "socket.io-client": "^2.0.3"
   },
   "devDependencies": {},
   "description": ""
